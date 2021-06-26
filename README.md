@@ -1,4 +1,4 @@
-# FLUTTER APP
+# flutter-redux-sagas-example
 ```shell script
  # flutter create .
  flutter create my_app
